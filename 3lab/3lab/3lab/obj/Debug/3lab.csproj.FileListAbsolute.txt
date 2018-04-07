@@ -1,0 +1,10 @@
+C:\Users\Prince\Desktop\3lab\3lab\3lab\bin\Debug\3lab.exe.config
+C:\Users\Prince\Desktop\3lab\3lab\3lab\bin\Debug\3lab.exe
+C:\Users\Prince\Desktop\3lab\3lab\3lab\bin\Debug\3lab.pdb
+C:\Users\Prince\Desktop\3lab\3lab\3lab\obj\Debug\3lab.csprojResolveAssemblyReference.cache
+C:\Users\Prince\Desktop\3lab\3lab\3lab\obj\Debug\_3lab.Properties.Resources.resources
+C:\Users\Prince\Desktop\3lab\3lab\3lab\obj\Debug\3lab.csproj.GenerateResource.cache
+C:\Users\Prince\Desktop\3lab\3lab\3lab\obj\Debug\3lab.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\3lab\3lab\3lab\obj\Debug\3lab.exe
+C:\Users\Prince\Desktop\3lab\3lab\3lab\obj\Debug\3lab.pdb
+C:\Users\Prince\Desktop\3lab\3lab\3lab\obj\Debug\_3lab.Phone.resources
